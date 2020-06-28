@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+			<button type="primary" class="button" bindtap="onClick" data-name="63A5FEA6D4D03726E050A10A7E1C5ABC"> 单元门 </button>
+			<button type="primary"  class="button" bindtap="onClick" data-name="63A5FEEE2DB73068E050A10A7E1C5ACC"> 北门 </button>
+			<button type="primary"  class="button" bindtap="onClick" data-name="63A67BB3B4632E56E050A10A7E1C6D83"> 南门 </button>
+			<button type="primary"  class="button" bindtap="onClick" data-name="63A62D7C7E1FF9EBE050A10A7E1C5FD9"> 东门南 </button>
+			<button type="primary"  class="button" bindtap="onClick" data-name="63A693FBED504B75E050A10A7E1C6641"> 东门北 </button>
+			<button type="primary"  class="button" bindtap="onClick" data-name="63A62D7C7E20F9EBE050A10A7E1C5FD9"> 6号楼大门 </button>
+			<button type="primary"  class="button" bindtap="onClick" data-name="63A631E13D4B111DE050A10A7E1C5FFA"> 7号楼大门 </button>
+			<button type="primary"  class="button" bindtap="onClick" data-name="63A67BB3B4632E56E050A10A7E1C6D83"> 8号楼大门 </button>
+			<button type="primary"  class="button" bindtap="onClick" data-name="63A62D7C7E21F9EBE050A10A7E1C5FD9"> 9号楼大门 </button>
+</view>
